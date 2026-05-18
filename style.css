@@ -92,7 +92,7 @@ body {
 /* Talavera negra como textura de todo el header */
 .header-bg {
   position: absolute; inset: 0;
-  background-image: url('/fotos/mn1.png');
+  background-image: url('fotos/mn1.png');
   background-size: 400px;
   background-repeat: repeat;
   opacity: .09;
@@ -114,7 +114,7 @@ body {
   position: absolute;
   right: 0; top: 0;
   width: 32%; height: 100%;
-  background-image: url('/fotos/ma.jpg');
+  background-image: url('fotos/ma.jpg');
   background-size: 320px;
   background-repeat: repeat;
   opacity: .18;
@@ -226,7 +226,7 @@ body {
 .especiales-section::before {
   content: '';
   position: absolute; inset: 0;
-  background-image: url('/fotos/ma.jpg');
+  background-image: url('fotos/ma.jpg');
   background-size: 280px;
   background-repeat: repeat;
   opacity: .07;
@@ -344,7 +344,7 @@ body {
 .gallery-section::before {
   content: '';
   position: absolute; inset: 0;
-  background-image: url('/fotos/mn2.png');
+  background-image: url('fotos/mn2.png');
   background-size: 350px;
   background-repeat: repeat;
   opacity: .055;
@@ -649,7 +649,7 @@ body {
 .extras-section::before {
   content: '';
   position: absolute; inset: 0;
-  background-image: url('/fotos/mn1.png');
+  background-image: url('fotos/mn1.png');
   background-size: 360px;
   background-repeat: repeat;
   opacity: .06;
@@ -780,7 +780,7 @@ body {
 .footer::before {
   content: '';
   position: absolute; inset: 0;
-  background-image: url('/fotos/ma.jpg');
+  background-image: url('fotos/ma.jpg');
   background-size: 220px; background-repeat: repeat;
   opacity: .06; z-index: 0;
 }
